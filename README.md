@@ -11,18 +11,31 @@
   - 👤 Customers tab - Extracted customer information
 
 ## ⚙️ Setup
+1. **Setup Virtual Environment**:
+```bash
+python -m venv venv
+```
 
-1. **Install dependencies**
+2. **Activate**:
+```
+venv/scripts/activate
+```
+
+3. **Install dependencies**
 ```
 pip install -r requirements.txt
 ```
 
-2. **Configuration**
+3. **Configuration**
 Create .env file:
-```GEMINI_API_KEY=your_api_key_here```
+```
+GEMINI_API_KEY=your_api_key_here
+```
 
 ## Running the app
-   ```streamlit run main.py```
+```
+streamlit run main.py
+```
 
 ## 🖥️ Usage
 Upload one or more invoice images
@@ -30,8 +43,10 @@ Click "Parse Invoices" button
 Switch between tabs to view different data sections
 
 ## 📁 Project Structure
+```
 invoice-parser/
 ├── app.py            # Main application code
 ├── .env              # Environment variables
 ├── requirements.txt  # Dependencies
 └── README.md         # This file
+```
