@@ -28,7 +28,7 @@ venv/scripts/activate
 pip install -r requirements.txt
 ```
 
-3. **Configuration**
+4. **Configuration**
 Create .env file:
 ```
 GEMINI_API_KEY=your_api_key_here
