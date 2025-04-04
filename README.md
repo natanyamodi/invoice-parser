@@ -1,6 +1,8 @@
 # 📄 Invoice Parser with Gemini AI
 
-![App Screenshot](screenshot.png) <!-- Add your screenshot here -->
+![image](https://github.com/user-attachments/assets/93e004ed-ecc2-41be-9b32-7be33e7b76af)
+![image](https://github.com/user-attachments/assets/9564d3bd-e716-485a-b3b2-d51a63561518)
+![image](https://github.com/user-attachments/assets/38cbdd34-1db2-435b-8cbd-7ba4addecec9)
 
 ## 🚀 Features
 - **AI-Powered Parsing**: Uses Gemini to extract structured data from invoice images
