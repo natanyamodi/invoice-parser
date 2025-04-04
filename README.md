@@ -11,6 +11,7 @@
   - 📋 Invoices tab - Main invoice details
   - 🛒 Items tab - All line items with quantities and prices
   - 👤 Customers tab - Extracted customer information
+- **Data Export**: The parsed invoice data can be easily exported for further analysis ![image](https://github.com/user-attachments/assets/612de2c0-8e59-417c-b5ef-b4e4bd4a5b2a)
 
 ## ⚙️ Setup
 1. **Setup Virtual Environment**:
